@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: url(https://htmldemo.net/kofi/assets/img/bg/hero-bg.jpg);
+}
+
+
+
+
+.row .button a{
+    text-decoration: none;
+    background-color: #c7a17a;
+    border-radius: 25px;
+    padding: 12px 22px;
+    font-size: 16px;
+    color: #fff;
+
+}
+
+.poster{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    padding: 13rem 0;
+}
+
+.poster h1{
+    padding: 1rem;
+    font-size: 50px;
+}
+
+.poster h3{
+    padding: 1rem;
+    font-size: 36px;
+}
+
+.poster h6{
+    padding: 1rem;
+    font-size: 16px;
+
+}
+
+.poster a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #c7a07a00;
+    border-radius: 25px;
+    padding: 12px 22px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    color: #fff;
+    transition: 1s;
+  
+}
+
+.poster a:hover{
+    text-decoration: none;
+    background-color: #c7a07a;
+    border-radius: 25px;
+    padding: 12px 22px;
+    font-size: 16px;
+    border: 2px solid #c7a07a;
+    color: #fff;
+  
+}
+
+.box{
+    transition: 0.5s;
+}
+
+.box:hover{
+    transform: translateY(-15px);
+}
+
+.section{
+    position: relative;
+    float: left;
+    width: 100%;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+
